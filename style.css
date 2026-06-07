@@ -1,0 +1,32 @@
+body{
+    background-color: skyblue;
+}
+#box-wrapper {
+
+  justify-content:center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+}
+#assert-form{
+    background-color: aliceblue;
+  justify-content:center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+}
+#txt{
+    color: navy;
+    border: 5px navy;
+
+}
+#name-block{
+    display: flex;
+
+}
+#outer{
+    color:red;
+}
+
